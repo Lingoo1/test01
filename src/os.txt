@@ -1,0 +1,12 @@
+我是天才！！！4ooop
+hfuw
+扶額五百
+package io;
+
+import java.io.FileReader;
+
+public class Read {
+    public static void main(String[] args) {
+        new FileReader("");
+    }
+}
